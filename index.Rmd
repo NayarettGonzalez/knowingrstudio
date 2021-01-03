@@ -1,13 +1,7 @@
 ---
-title: "Programando en R"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+title: "Home"
 author: "Nayarett González"
 date: "1/3/2021"
-output: html_document
 ---
 
 
